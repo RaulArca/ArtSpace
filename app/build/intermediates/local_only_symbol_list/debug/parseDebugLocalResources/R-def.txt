@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable colorful_3d_shapes_vaporwave_style
+drawable digital_art_carnival_design
+drawable digital_art_carnival_design_7
+drawable digital_art_carnival_design__1
+drawable digital_art_carnival_design__2
+drawable digital_art_carnival_design__3
+drawable digital_art_carnival_design__4
+drawable digital_art_carnival_design__5
+drawable digital_art_carnival_design__6
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string previous_tag
+style Theme.ArtSpace
+xml backup_rules
+xml data_extraction_rules
